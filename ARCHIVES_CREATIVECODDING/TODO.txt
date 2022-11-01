@@ -1,0 +1,18 @@
+Dans le dossier ARCHIVE_CREATIVECODING
+
+Avec un dossier a votre nom : 
+    - programme pour 4 écrans
+    - programme pour 1 écran
+    - 8-10 screenshoots
+    - un fichier markdown README.MD
+        ( instruction : 
+            Titre, 
+            explication, 
+            2 paragraphes et détails, 
+            credit, 
+            libraries utilisé, 
+            interface midi, 
+            explication, ...)
+    - screenshoot vidéo 1 écran(30 secondes)
+    - screenshoot vidéo 4 écran(10 secondes)
+    
