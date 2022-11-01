@@ -1,0 +1,4 @@
+class Astre{
+  void display(){
+  }
+}
