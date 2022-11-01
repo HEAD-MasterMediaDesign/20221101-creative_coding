@@ -22,8 +22,8 @@ color ora = color(238, 150, 75);
 color ver = color(85, 130, 139);
 
 void setup() {
-  fullScreen(P3D, SPAN);
-  //size(1200, 500, P3D);
+  //fullScreen(P3D, SPAN);
+  size(1920, 1080, P3D);
   pg = createGraphics (width, height, P2D);
   blur = loadShader("blur.glsl");
   s1 = new Analysor(this, "halp.mp3", 60);
