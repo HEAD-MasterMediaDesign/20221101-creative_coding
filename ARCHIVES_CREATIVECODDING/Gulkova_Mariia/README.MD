@@ -4,10 +4,12 @@
 
 #### Credits :
 
-Picture - @ marinoss_art (Instagram) Ukrainian Madonna 🇺🇦
-Sound - free bandura sound from z2.fm
-Get Inspired by artists (Youtube channels) - «thedotisblack creative coding»;
-«Tim rodenbroker creative coding».
+Picture 
+- @ marinoss_art (Instagram) Ukrainian Madonna 🇺🇦  
+- Sound - free bandura sound from z2.fm  
+- Get Inspired by artists (Youtube channels)  
+- «thedotisblack creative coding»;  
+- «Tim rodenbroker creative coding».  
 
 Description:
 
