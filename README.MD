@@ -3,7 +3,7 @@ Damien Baïs / Nicolas Baldran
 
 ---
 
-- [Leonie Courbat](../tree/main/ARCHIVES_CREATIVECODDING/Courbat_Leonie)
+- [Leonie Courbat](./tree/main/ARCHIVES_CREATIVECODDING/Courbat_Leonie)
 - Marine Faroud-Boget
 - Flore Garcia
 - Mariia Gulkova
